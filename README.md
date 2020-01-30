@@ -1,1 +1,1 @@
-# blackjack
+# Object Oriented Python Blackjack
